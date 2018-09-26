@@ -1,0 +1,39 @@
+.logo-image
+{
+width: 15%;
+}
+.small-image
+{
+width: 100% !important;
+}
+.marg-container
+{
+margin-top: 25px;
+margin-bottom: 25px;
+}
+.mid-image
+{
+width: 100%;
+}
+h1
+{
+font-size: 200% !important;
+color: #2d3c4a;
+}
+.line
+{
+	width: 100%;
+}
+.center
+{
+text-align: center;
+}
+.right-text
+{
+text-align: right ;
+}
+.mobImage
+{
+width: 100%;
+display: block;
+}
